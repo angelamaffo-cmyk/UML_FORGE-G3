@@ -1,0 +1,81 @@
+{
+  "common": {
+    "appName": "UML Forge",
+    "tagline": "Concevez des diagrammes UML et générez du SQL",
+    "signIn": "Se connecter",
+    "signUp": "Créer un compte",
+    "signOut": "Se déconnecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "name": "Nom",
+    "submit": "Valider",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "loading": "Chargement…",
+    "error": "Une erreur est survenue",
+    "language": "Langue"
+  },
+  "nav": {
+    "home": "Accueil",
+    "editor": "Éditeur",
+    "dashboard": "Mes projets",
+    "pricing": "Tarifs",
+    "docs": "Documentation",
+    "community": "Communauté"
+  },
+  "home": {
+    "badge": "v2.0 — Éditeur React Flow, mode sombre & import SQL",
+    "h1a": "Concevez des diagrammes UML",
+    "h1b": "avec une précision chirurgicale.",
+    "sub": "Un éditeur de diagrammes de classes professionnel construit sur un canevas haute performance. Glissez, connectez, définissez les attributs, exportez le SQL — en quelques minutes.",
+    "ctaPrimary": "Commencer gratuitement",
+    "ctaSecondary": "Voir une démo",
+    "featuresTitle": "Tout ce qu'il faut pour modéliser sérieusement",
+    "pricingTitle": "Tarification simple",
+    "pricingSub": "Commencez gratuitement. Évoluez quand vous expédiez plus.",
+    "seePricing": "Voir tous les plans",
+    "ctaH2": "Prêt à livrer plus vite ?",
+    "ctaSub": "Rejoignez des milliers d'ingénieurs qui modélisent avec UML Forge.",
+    "ctaBtn": "Créer mon compte"
+  },
+  "auth": {
+    "loginTitle": "Heureux de vous revoir",
+    "loginSub": "Connectez-vous pour accéder à vos diagrammes.",
+    "signupTitle": "Créez votre compte",
+    "signupSub": "Quelques secondes suffisent pour démarrer.",
+    "noAccount": "Pas encore de compte ?",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "forgotPassword": "Mot de passe oublié ?",
+    "continueWith": "Ou continuer avec",
+    "invalidCredentials": "Email ou mot de passe invalide.",
+    "emailRequired": "Email requis",
+    "passwordRequired": "Mot de passe requis (8 caractères min.)",
+    "nameRequired": "Nom requis",
+    "alreadyExists": "Un compte existe déjà avec cet email."
+  },
+  "dashboard": {
+    "title": "Mes projets",
+    "newProject": "Nouveau projet",
+    "empty": "Aucun projet pour le moment.",
+    "openEditor": "Ouvrir dans l'éditeur",
+    "lastUpdated": "Mis à jour"
+  },
+  "editor": {
+    "save": "Enregistrer",
+    "saved": "Enregistré",
+    "saving": "Enregistrement…",
+    "rename": "Renommer",
+    "exportSql": "Exporter en SQL",
+    "importSql": "Importer du SQL"
+  }
+  ,"routes": {
+    "root": "/fr",
+    "home": "/fr/accueil",
+    "editor": "/fr/editeur",
+    "dashboard": "/fr/projets",
+    "pricing": "/fr/tarifs",
+    "docs": "/fr/docs",
+    "community": "/fr/communaute"
+  }
+}

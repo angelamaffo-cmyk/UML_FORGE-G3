@@ -1,0 +1,76 @@
+{
+  "common": {
+    "appName": "UML Forge",
+    "tagline": "Design UML diagrams and generate SQL",
+    "signIn": "Sign in",
+    "signUp": "Create account",
+    "signOut": "Sign out",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "language": "Language"
+  },
+  "url": {
+    "languageParam": "lang",
+    "changeLanguageInUrl": "Change language in URL"
+  },
+  "nav": {
+    "home": "Home",
+    "editor": "Editor",
+    "dashboard": "My projects",
+    "pricing": "Pricing",
+    "docs": "Documentation",
+    "community": "Community"
+  },
+  "home": {
+    "badge": "v2.0 — React Flow editor, dark mode & SQL import",
+    "h1a": "Design UML diagrams",
+    "h1b": "with surgical precision.",
+    "sub": "A professional class diagram editor built on a high-performance canvas. Drag, connect, define attributes, export SQL — in minutes.",
+    "ctaPrimary": "Start free",
+    "ctaSecondary": "Watch demo",
+    "featuresTitle": "Everything you need to model seriously",
+    "pricingTitle": "Simple pricing",
+    "pricingSub": "Start free. Upgrade when you ship more.",
+    "seePricing": "See all plans",
+    "ctaH2": "Ready to ship faster?",
+    "ctaSub": "Join thousands of engineers modeling with UML Forge.",
+    "ctaBtn": "Create my account"
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "loginSub": "Sign in to access your diagrams.",
+    "signupTitle": "Create your account",
+    "signupSub": "It only takes a few seconds to get started.",
+    "noAccount": "Don't have an account yet?",
+    "haveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "continueWith": "Or continue with",
+    "invalidCredentials": "Invalid email or password.",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password required (8 characters min.)",
+    "nameRequired": "Name is required",
+    "alreadyExists": "An account with this email already exists."
+  },
+  "dashboard": {
+    "title": "My projects",
+    "newProject": "New project",
+    "empty": "No projects yet.",
+    "openEditor": "Open in editor",
+    "lastUpdated": "Updated"
+  },
+  "editor": {
+    "save": "Save",
+    "saved": "Saved",
+    "saving": "Saving…",
+    "rename": "Rename",
+    "exportSql": "Export SQL",
+    "importSql": "Import SQL"
+  }
+}
